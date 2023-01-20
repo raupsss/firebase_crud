@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "166417210103",
+    "project_id": "learningfirebase-f0ef2",
+    "storage_bucket": "learningfirebase-f0ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166417210103:android:933e8a1c0e4caaef7051f2",
+        "android_client_info": {
+          "package_name": "com.example.networking_https"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166417210103-82neuttmubimees75e54t2b8nvfrmtph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwcngr6zokTKPe7dJSmmNC1N8YTnmXO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166417210103-82neuttmubimees75e54t2b8nvfrmtph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166417210103-ok63g5r9d2l3ail5ir6usrj8p4m3s3q9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.networkingHttps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
